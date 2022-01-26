@@ -7,7 +7,7 @@ author_profile: true
 
 Statistical Methodology/Machine Learning
 =====
-21. Chu, T., Guan, Y., Waagepetersen, R., and **Xu, G.** (2022) “Quasi-Likelihood for Multivariate Spatial Point Processes with Semiparametric Intensity Functions.” Spatial Statistics, accepted.
+1. Chu, T., Guan, Y., Waagepetersen, R., and **Xu, G.** (2022) “Quasi-Likelihood for Multivariate Spatial Point Processes with Semiparametric Intensity Functions.” Spatial Statistics, accepted.
 20. **Xu, G.**, Liang, C.(#), Waagepetersen, R., and Guan, Y. (2022) “Semi-parametric Goodness-of-fit Test for Clustered Point Processes with a Shape-constrained Pair Correlation Function.” Journal of the American Statistical Association, Theory & Method, accepted. (#: Ph.D. student supervised)
 19. Zhang, J., Cai, B., Zhu, X., Wang, H., **Xu, G.**, Guan, Y. "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, online.
 18. Hessellund, K. B., Xu, G., Guan, Y., and Waagepetersen, R. (2022) “Secondorder Semi-parametric Inference for Multivariate Log Gaussian Cox Processes.” Journal of the Royal Statistical Society, Series C, 71(1), 244– 268.
@@ -32,7 +32,7 @@ Univ. Ser. B, 2006, 21(4): 397-404.
 
 Interdisciplinary Collaboration
 =====
-6. Chen, X., Lin, L., et al., Xu, G., Song, Y., Xue, Y., Duan, Q. (2020) “Histogram analysis in predicting the grade and histological subtype of meningiomas based on diffusion kurtosis imaging.” Acta Radiologica, 61(9), 1228-1239.
+1. Chen, X., Lin, L., et al., Xu, G., Song, Y., Xue, Y., Duan, Q. (2020) “Histogram analysis in predicting the grade and histological subtype of meningiomas based on diffusion kurtosis imaging.” Acta Radiologica, 61(9), 1228-1239.
 5. Hathout, Y., Liang, C., Ogundele, M., Xu, G., et al. (2019) “Disease-specific and glucocorticoid-responsive serum biomarkers for Duchenne Muscular Dystrophy.” Scientific reports, 9, 1-13.
 4. Zhao, H., Wang, B., Xu, G., Dong, Y., Dong, Q., Cao, W. (2019) “Collateral grade of the Willis’ circle predicts outcomes of acute intracranial internal carotid artery occlusion before thrombectomy.” Brain and behavior, 9, e01452.
 3. Lin, L., Xue, Y., et al., Xu, G., Geng, D., Zhang, J. (2019) “Grading meningiomas using mono-exponential, bi-exponential and stretched exponential model-based diffusion-weighted MR imaging.” Clinical radiology, 74, 651.e15-651.e23.

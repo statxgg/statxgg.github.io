@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Research Interest
+======
+*Non-/Semi-parametric regression, Functional data analysis, Spatial statistics, Spatial
+point process, Model selection and model averaging, Times series on the network.
 
 Education
 ======

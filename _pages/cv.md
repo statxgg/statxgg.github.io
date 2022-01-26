@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-I am currently an assistant professor in the Department of Management Science at the University of Miami. Before that, I was an assistant professor in the Department of Mathematical Sciences, Binghamton University, State University of New York. I obtained my Ph.D. in Statistics from Texas A&M University, under the supervision of Prof. Suojin Wang and Prof. Jianhua Huang.
+Biography
+======
+* I am currently an assistant professor in the Department of Management Science at the University of Miami. Before that, I was an assistant professor in the Department of Mathematical Sciences, Binghamton University, State University of New York. I obtained my Ph.D. in Statistics from Texas A&M University, under the supervision of Prof. Suojin Wang and Prof. Jianhua Huang.
 
 Research Interest
 ======

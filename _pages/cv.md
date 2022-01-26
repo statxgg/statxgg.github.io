@@ -18,8 +18,8 @@ point process, Model selection and model averaging, Times series on the network.
 
 Education
 ======
-* B.S. in Statistics, Zhejiang University, 2006
 * Ph.D in Statistics, Texas A&M University, 2011
+* B.S. in Statistics, Zhejiang University, 2006
 
 Academic Positions
 ======

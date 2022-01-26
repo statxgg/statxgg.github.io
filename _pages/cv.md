@@ -27,3 +27,4 @@ Academic Positions
 * 2014-2018: Assistant Professor, Department of Mathematical Sciences, Binghamton University, State University of New York
 * 2012-2014: Postdoctoral Research Fellow, Institute for Applied Mathematics and Computational Science (IAMCS), Texas A&M University, College Station
 
+[CV](http://statxgg.github.io/files/cv.pdf)

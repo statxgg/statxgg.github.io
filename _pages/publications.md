@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Research Grants"
+title: ""
 permalink: /publications/
 author_profile: true
 ---

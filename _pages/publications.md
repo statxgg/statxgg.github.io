@@ -11,9 +11,9 @@ Research Grants
 
 Statistical Methodology/Machine Learning
 =====
-1. Chu, T., Guan, Y., Waagepetersen, R., and **Xu, G.** (2022) “Quasi-Likelihood for Multivariate Spatial Point Processes with Semiparametric Intensity Functions.” Spatial Statistics, accepted.
+1. Chu, T., Guan, Y., Waagepetersen, R., and **Xu, G.** (2022) "[Quasi-Likelihood for Multivariate Spatial Point Processes with Semiparametric Intensity Functions](https://doi.org/10.1016/j.spasta.2022.100605).” Spatial Statistics, accepted.
 20. **Xu, G.**, Liang, C.(#), Waagepetersen, R., and Guan, Y. (2022) "[Semi-parametric Goodness-of-fit Test for Clustered Point Processes with a Shape-constrained  Pair Correlation Function](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2029456)." Journal of the American Statistical Association, Theory & Method, accepted. (#: Ph.D. student supervised)
-19. Zhang, J., Cai, B., Zhu, X., Wang, H., **Xu, G.**, Guan, Y. "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, online.
+19. Zhang, J., Cai, B., Zhu, X., Wang, H., **Xu, G.**, Guan, Y. (2022) "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, online.
 18. Hessellund, K. B., **Xu, G.,** Guan, Y., and Waagepetersen, R. (2022) “[Secondorder Semi-parametric Inference for Multivariate Log Gaussian Cox Processes.](http://dx.doi.org/10.1111/rssc.12530)” Journal of the Royal Statistical Society, Series C, 71(1), 244– 268.
 17. Yin, L., **Xu, G.,** Sang, H., and Guan, Y. (2021) “[Row-clustering of a Point Process-valued Matrix.](https://proceedings.neurips.cc/paper/2021/file/a6a38989dc7e433f1f42388e7afca318-Paper.pdf)” Advances in Neural Information Processing Systems (NeurIPS), 34.
 16. Hessellund, K. B.(∗), **Xu, G.**(∗), Guan, Y., and Waagepetersen, R. (2021) “[Semiparametric Multinomial Logistic Regression for Multivariate Point Pattern Data.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1863812)” Journal of the American Statistical Association, Theory & Method, 1-16. (∗: joint first authors with equal contributions.)

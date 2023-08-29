@@ -11,9 +11,9 @@ Research Grants
 
 Statistical Methodology/Machine Learning
 =====
-1. Fang, G.(∗),**Xu, G.**(∗), Xu, H., Zhu, X., Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, accepted. (∗: joint first authors with equal contributions.)
+1. Fang, G.(∗),**Xu, G.**(∗), Xu, H., Zhu, X., Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, Theory & Method, accepted. (∗: joint first authors with equal contributions.)
 1. Zhu, X.(∗),**Xu, G.**(∗), Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://arxiv.org/abs/2209.12229)", Journal of Econometrics, accepted. (∗: joint first authors with equal contributions.)
-1. **Xu, G.**, Zhang, J., Li, Y., and Guan, Y. (2022) "[Bias-correction and Test for Mark-point Dependence with Replicated Marked Point Processes](https://arxiv.org/abs/2207.09931)." Journal of the American Statistical Association, Theory & Method, accepted.
+1. **Xu, G.**, Zhang, J., Li, Y., and Guan, Y. (2022) "[Bias-correction and Test for Mark-point Dependence with Replicated Marked Point Processes](https://arxiv.org/abs/2207.09931)." Journal of the American Statistical Association, Theory & Method, in press.
 2. Chu, T., Guan, Y., Waagepetersen, R., and **Xu, G.** (2022) "[Quasi-Likelihood for Multivariate Spatial Point Processes with Semiparametric Intensity Functions](https://doi.org/10.1016/j.spasta.2022.100605).” Spatial Statistics, 100605.
 20. **Xu, G.**, Liang, C.(#), Waagepetersen, R., and Guan, Y. (2022) "[Semi-parametric Goodness-of-fit Test for Clustered Point Processes with a Shape-constrained  Pair Correlation Function](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2029456)." Journal of the American Statistical Association, Theory & Method, accepted. (#: Ph.D. student supervised)
 19. Zhang, J., Cai, B., Zhu, X., Wang, H., **Xu, G.**, Guan, Y. (2022) "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, online.

@@ -11,7 +11,7 @@ Research Grants
 
 Statistical Methodology/Machine Learning
 =====
-1. Li, K., Liu, R., **Xu, G.**, and Shang, Z. (2023) "[Optimal Nonparametric Inference under Quantization](https://arxiv.org/abs/1901.08571)", Journal of Machine Learning Research, Accepted.
+1. Li, K., Liu, R., **Xu, G.**, and Shang, Z. (2023) "[Nonparametric Inference under B-bits Quantization](https://arxiv.org/abs/1901.08571)", Journal of Machine Learning Research, Accepted.
 2. Fang, G.(∗), **Xu, G.**(∗), Xu, H., Zhu, X., Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, Theory & Method, accepted. (∗: joint first authors with equal contributions.)
 3. Zhu, X.(∗), **Xu, G.**(∗), Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://arxiv.org/abs/2209.12229)", Journal of Econometrics, accepted. (∗: joint first authors with equal contributions.)
 4. Liu, R., **Xu, G.**(∗), and Shang, Z. (2023) "[Distributed Adaptive Nearest Neighbor Classifier: Algorithm and Theory](https://arxiv.org/abs/2105.09788)", Statistics and Computing, 33(96).

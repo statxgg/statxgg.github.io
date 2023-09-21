@@ -11,10 +11,10 @@ Research Grants
 
 Statistical Methodology/Machine Learning
 =====
-1. Li, K., Liu, R., **Xu, G.**, and Shang, Z. (2023) "[Optimal Nonparametric Inference under Quantization](https://arxiv.org/abs/1901.08571)",Journal of Machine Learning Research, Accepted.
+1. Li, K., Liu, R., **Xu, G.**, and Shang, Z. (2023) "[Optimal Nonparametric Inference under Quantization](https://arxiv.org/abs/1901.08571)", Journal of Machine Learning Research, Accepted.
 2. Fang, G.(∗), **Xu, G.**(∗), Xu, H., Zhu, X., Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, Theory & Method, accepted. (∗: joint first authors with equal contributions.)
 3. Zhu, X.(∗), **Xu, G.**(∗), Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://arxiv.org/abs/2209.12229)", Journal of Econometrics, accepted. (∗: joint first authors with equal contributions.)
-4. Liu, R., **Xu, G.**(∗), and Shang, Z. (2023) "[Distributed Adaptive Nearest Neighbor Classifier: Algorithm and Theory](https://arxiv.org/abs/2105.09788)",Statistics and Computing, 33(96).
+4. Liu, R., **Xu, G.**(∗), and Shang, Z. (2023) "[Distributed Adaptive Nearest Neighbor Classifier: Algorithm and Theory](https://arxiv.org/abs/2105.09788)", Statistics and Computing, 33(96).
 1. **Xu, G.**, Zhang, J., Li, Y., and Guan, Y. (2022) "[Bias-correction and Test for Mark-point Dependence with Replicated Marked Point Processes](https://arxiv.org/abs/2207.09931)." Journal of the American Statistical Association, Theory & Method, in press.
 2. Chu, T., Guan, Y., Waagepetersen, R., and **Xu, G.** (2022) "[Quasi-Likelihood for Multivariate Spatial Point Processes with Semiparametric Intensity Functions](https://doi.org/10.1016/j.spasta.2022.100605).” Spatial Statistics, 100605.
 20. **Xu, G.**, Liang, C.(#), Waagepetersen, R., and Guan, Y. (2022) "[Semi-parametric Goodness-of-fit Test for Clustered Point Processes with a Shape-constrained  Pair Correlation Function](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2029456)." Journal of the American Statistical Association, Theory & Method, accepted. (#: Ph.D. student supervised)

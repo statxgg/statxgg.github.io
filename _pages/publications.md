@@ -43,7 +43,7 @@ Statistical Methodology/Machine Learning
 
 Interdisciplinary Collaboration
 =====
-1. Chen, X., Lin, L., et al., **Xu, G.,** Song, Y., Xue, Y., Duan, Q. (2020) “[Histogram analysis in predicting the grade and histological subtype of meningiomas based on diffusion kurtosis imaging.](https://journals.sagepub.com/doi/abs/10.1177/0284185119898656)” Act"a Radiologica, 61(9), 1228-1239.
+1. Chen, X., Lin, L., et al., **Xu, G.,** Song, Y., Xue, Y., Duan, Q. (2020) “[Histogram analysis in predicting the grade and histological subtype of meningiomas based on diffusion kurtosis imaging.](https://journals.sagepub.com/doi/abs/10.1177/0284185119898656)” Acta Radiologica, 61(9), 1228-1239.
 5. Hathout, Y., Liang, C., Ogundele, M., **Xu, G.,** et al. (2019) “[Disease-specific and glucocorticoid-responsive serum biomarkers for Duchenne Muscular Dystrophy.](https://www.nature.com/articles/s41598-019-48548-9)” Scientific reports, 9, 1-13.
 4. Zhao, H., Wang, B., **Xu, G.,** Dong, Y., Dong, Q., Cao, W. (2019) “[Collateral grade of the Willis’ circle predicts outcomes of acute intracranial internal carotid artery occlusion before thrombectomy.](https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.1452)” Brain and behavior, 9, e01452.
 3. Lin, L., Xue, Y., et al., **Xu, G.,** Geng, D., Zhang, J. (2019) “[Grading meningiomas using mono-exponential, bi-exponential and stretched exponential model-based diffusion-weighted MR imaging.](https://www.sciencedirect.com/science/article/pii/S0009926019301941)” Clinical radiology, 74, 651.e15-651.e23.

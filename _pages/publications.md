@@ -11,7 +11,7 @@ Research Grants
 
 Statistical Methodology/Machine Learning
 =====
-1. Jalilian, A., Cuevas-Pacheco, F., **Xu, G.**, and Waagepetersen, R.  (2024+) "[Composite likelihood inference for space-time point processes]()", submitted.
+1. Jalilian, A., Cuevas-Pacheco, F., **Xu, G.**, and Waagepetersen, R.  (2024+) "[Composite likelihood inference for space-time point processes](http://arxiv.org/abs/2402.12548)", submitted.
 1. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2024+) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", submitted.
 2. Jalilian, A., Poinas, A., **Xu, G.**, and Waagepetersen, R. (2024+) "[A central limit theorem for a sequence of conditionally centered and -mixing random fields](https://arxiv.org/abs/2301.08942)", under revision.
 1. Li, K., Liu, R., **Xu, G.**, and Shang, Z. (2024) "[Nonparametric Inference under B-bits Quantization](https://www.jmlr.org/papers/volume25/20-075/20-075.pdf)", Journal of Machine Learning Research, 25(19), 1−68.

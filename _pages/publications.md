@@ -11,8 +11,10 @@ Research Grants
 
 Statistical Methodology/Machine Learning
 =====
-1. Jalilian, A., Cuevas-Pacheco, F., **Xu, G.**, and Waagepetersen, R.  (2024+) "[Composite likelihood inference for space-time point processes](http://arxiv.org/abs/2402.12548)", submitted.
-1. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2024+) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", submitted.
+1. Ren, Y., Zhu, X.(+), **Xu, G.**(+), Ma, Y. (2024+) "[Multi-relational Network Autoregression Model with Latent Group Structures](https://arxiv.org/abs/2406.03296)". (+: joint corresponding authors.)
+2. Liu, W.(∗), **Xu, G.**(∗), Zhu, X., Fan, J. (2024+) "[Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression](https://arxiv.org/abs/2404.18732)". (∗: joint first authors with equal contributions.)
+3. Jalilian, A., Cuevas-Pacheco, F., **Xu, G.**, and Waagepetersen, R.  (2024+) "[Composite likelihood inference for space-time point processes](http://arxiv.org/abs/2402.12548)", submitted.
+4. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2024+) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", submitted.
 2. Jalilian, A., Poinas, A., **Xu, G.**, and Waagepetersen, R. (2024+) "[A central limit theorem for a sequence of conditionally centered and -mixing random fields](https://arxiv.org/abs/2301.08942)", under revision.
 1. Li, K., Liu, R., **Xu, G.**, and Shang, Z. (2024) "[Nonparametric Inference under B-bits Quantization](https://www.jmlr.org/papers/volume25/20-075/20-075.pdf)", Journal of Machine Learning Research, 25(19), 1−68.
 2. Fang, G.(∗), **Xu, G.**(∗), Xu, H., Zhu, X., Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, Theory & Method, in press. (∗: joint first authors with equal contributions.)

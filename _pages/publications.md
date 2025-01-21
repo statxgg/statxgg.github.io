@@ -10,7 +10,7 @@ Research Grants
 2. Collaboration Grants for Mathematicians (Award ID: 524205), Simons Foundation: 2017-2018.
 
 Statistical Methodology/Machine Learning 
-=====
+===== 
 1. Ren, Y., Zhu, X.(+), **Xu, G.**(+), Ma, Y. (2025+) "[Multi-relational Network Autoregression Model with Latent Group Structures](https://arxiv.org/abs/2406.03296)", submitted. (+: joint corresponding authors.)  
 2. Liu, W.(∗), **Xu, G.**(∗), Fan, J., Zhu, X. (2025+) "[Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression](https://arxiv.org/abs/2404.18732)", submitted. (∗: joint first authors with equal contributions.) 
 3. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2025+) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", submitted.

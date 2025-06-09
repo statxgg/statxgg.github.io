@@ -13,7 +13,7 @@ Statistical Methodology/Machine Learning
 ===== 
 1. Ren, Y., Zhu, X.(+), **Xu, G.**(+), Ma, Y. (2025+) "[Multi-relational Network Autoregression Model with Latent Group Structures](https://arxiv.org/abs/2406.03296)", submitted. (+: joint corresponding authors.)  
 2. Liu, W.(∗), **Xu, G.**(∗), Fan, J., Zhu, X. (2025+) "[Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression](https://arxiv.org/abs/2404.18732)", submitted. (∗: joint first authors with equal contributions.) 
-3. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2025+) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", submitted.
+3. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2025+) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", Journal of Computational and Graphical Statistics, in press.
 4. Jalilian, A., Cuevas-Pacheco, F., **Xu, G.**, and Waagepetersen, R.  (2025) "[Composite likelihood inference for space-time point processes](http://arxiv.org/abs/2402.12548)", Biometrics, in press.
 5. Jalilian, A., Poinas, A., **Xu, G.**, and Waagepetersen, R. (2025) "[A central limit theorem for a sequence of conditionally centered and alpha-mixing random fields](https://arxiv.org/abs/2301.08942)", Bernoulli, in press.
 2. Fang, G.(∗), **Xu, G.**(∗), Xu, H., Zhu, X., Guan, Y. (2024) "[Group Network Hawkes Process](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257889)", Journal of the American Statistical Association, Theory & Method, 119(547),2328–2344. (∗: joint first authors with equal contributions.)

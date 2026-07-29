@@ -11,9 +11,9 @@ Research Grants
 
 Operations Management and Research 
 ===== 
-1.**Xu, G.** and Shi, C. (2026+). "[Estimate-Then-Optimize: A Modular Statistical Framework for Data-Driven (s, S) Inventory Control]", Management Science, Major revision.  
-2.Sun, S., Zacharias, C., and **Xu, G.** (2026+). "[Appointment Scheduling of Non-Punctual Patients Using Determinantal Point Processes]", INFORMS Journal on Computing, Major revision.  
-3.**Xu, G.**, Jia, X., Lu, G., and Peng, D. X. (2026). "[Applying Dynamic Modeling in Empirical OM Research: A Review and Practical Guide](https://doi.org/10.1002/joom.70028)", Journal of Operations Management, 72(3), 462-494.  
+1. **Xu, G.** and Shi, C. (2026+). "[Estimate-Then-Optimize: A Modular Statistical Framework for Data-Driven (s, S) Inventory Control]", Management Science, Major revision.
+2. Sun, S.(#), Zacharias, C., and **Xu, G.** (2026+). "[Appointment Scheduling of Non-Punctual Patients Using Determinantal Point Processes]", INFORMS Journal on Computing, Major revision. (#: Ph.D. student supervised)
+3. **Xu, G.**, Jia, X., Lu, G., and Peng, D. X. (2026). "[Applying Dynamic Modeling in Empirical OM Research: A Review and Practical Guide](https://doi.org/10.1002/joom.70028)", Journal of Operations Management, 72(3), 462-494.  
 
 Statistical Methodology/Machine Learning 
 ===== 

@@ -9,14 +9,20 @@ Research Grants
 1. [NSF SES-1902195](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1902195): 2018-2021.
 2. Collaboration Grants for Mathematicians (Award ID: 524205), Simons Foundation: 2017-2018.
 
+Operations Management and Research 
+===== 
+1.**Xu, G.** and Shi, C. (2026+). "[Estimate-Then-Optimize: A Modular Statistical Framework for Data-Driven (s, S) Inventory Control]", Management Science, Major revision.  
+2.Sun, S., Zacharias, C., and **Xu, G.** (2026+). "[Appointment Scheduling of Non-Punctual Patients Using Determinantal Point Processes]", INFORMS Journal on Computing, Major revision.  
+3.**Xu, G.**, Jia, X., Lu, G., and Peng, D. X. (2026). "[Applying Dynamic Modeling in Empirical OM Research: A Review and Practical Guide](https://doi.org/10.1002/joom.70028)", Journal of Operations Management, 72(3), 462-494.  
+
 Statistical Methodology/Machine Learning 
 ===== 
-1. Ren, Y., Zhu, X.(+), **Xu, G.**(+), Ma, Y. (2025+) "[Multi-relational Network Autoregression Model with Latent Group Structures](https://arxiv.org/abs/2406.03296)", submitted. (+: joint corresponding authors.)  
-2. Liu, W.(∗), **Xu, G.**(∗), Fan, J., Zhu, X. (2025+) "[Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression](https://arxiv.org/abs/2404.18732)", submitted. (∗: joint first authors with equal contributions.) 
-3. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2025) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", Journal of Computational and Graphical Statistics, in press.
-4. Jalilian, A., Cuevas-Pacheco, F., **Xu, G.**, and Waagepetersen, R.  (2025) "[Composite likelihood inference for space-time point processes](http://arxiv.org/abs/2402.12548)", Biometrics, in press.
-5. Jalilian, A., Poinas, A., **Xu, G.**, and Waagepetersen, R. (2025) "[A central limit theorem for a sequence of conditionally centered and alpha-mixing random fields](https://arxiv.org/abs/2301.08942)", Bernoulli, in press.
-2. Fang, G.(∗), **Xu, G.**(∗), Xu, H., Zhu, X., Guan, Y. (2024) "[Group Network Hawkes Process](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257889)", Journal of the American Statistical Association, Theory & Method, 119(547),2328–2344. (∗: joint first authors with equal contributions.)
+1. Liu, W.(∗), **Xu, G.**(∗), Fan, J., and Zhu, X. (2026+) "[Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression](https://arxiv.org/abs/2404.18732)", submitted. (∗: joint first authors with equal contributions.)
+2. Ren, Y., Zhu, X.(+), **Xu, G.**(+), and Ma, Y. (2026) "[Multi-relational Network Autoregression Model with Latent Group Structures](https://www.jmlr.org/papers/volume27/24-1191/24-1191.pdf)", Journal of Machine Learning Research, 27 (2026) 1-135. (+: joint corresponding authors.)  
+3. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2026) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", Journal of Computational and Graphical Statistics, 35(1), 229–240.
+4. Jalilian, A., Cuevas-Pacheco, F., and **Xu, G.**, and Waagepetersen, R.  (2025) "[Composite likelihood inference for space-time point processes](http://arxiv.org/abs/2402.12548)", Biometrics, 81(1), ujaf009.
+5. Jalilian, A., Poinas, A., **Xu, G.**, and Waagepetersen, R. (2025) "[A central limit theorem for a sequence of conditionally centered and alpha-mixing random fields](https://arxiv.org/abs/2301.08942)", Bernoulli, 31(4), 2675-2698.
+2. Fang, G.(∗), **Xu, G.**(∗), Xu, H., Zhu, X., and Guan, Y. (2024) "[Group Network Hawkes Process](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257889)", Journal of the American Statistical Association, Theory & Method, 119(547),2328–2344. (∗: joint first authors with equal contributions.)
 1. **Xu, G.**, Zhang, J., Li, Y., and Guan, Y. (2024) "[Bias-correction and Test for Mark-point Dependence with Replicated Marked Point Processes](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2106234)." Journal of the American Statistical Association, Theory & Method, 119(545), 217–231. 
 1. Li, K., Liu, R., **Xu, G.**, and Shang, Z. (2024) "[Nonparametric Inference under B-bits Quantization](https://www.jmlr.org/papers/volume25/20-075/20-075.pdf)", Journal of Machine Learning Research, 25(19), 1−68.
 3. Zhu, X.(∗), **Xu, G.**(∗), Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://arxiv.org/abs/2209.12229)", Journal of Econometrics, 105564. (∗: joint first authors with equal contributions.)

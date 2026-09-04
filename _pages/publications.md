@@ -17,7 +17,7 @@ Operations Management and Research
 
 Statistical Methodology/Machine Learning 
 ===== 
-1. Liu, W.(∗), **Xu, G.**(∗), Fan, J., and Zhu, X. (2026+) "[Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression](https://arxiv.org/abs/2404.18732)", submitted. (∗: joint first authors with equal contributions.)
+1. Liu, W.(∗), **Xu, G.**(∗), Fan, J., and Zhu, X. (2026+) "[Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression](https://arxiv.org/abs/2404.18732)", Journal of the American Statistical Association, Theory & Method, accepted. (∗: joint first authors with equal contributions.)
 2. Ren, Y., Zhu, X.(+), **Xu, G.**(+), and Ma, Y. (2026) "[Multi-relational Network Autoregression Model with Latent Group Structures](https://www.jmlr.org/papers/volume27/24-1191/24-1191.pdf)", Journal of Machine Learning Research, 27 (2026) 1-135. (+: joint corresponding authors.)  
 3. Lu, C., Guan, Y., van Lieshout, MC., and **Xu, G.**. (2026) "[XGBoostPP: Tree-based estimation of point process intensity functions](https://arxiv.org/abs/2401.17966)", Journal of Computational and Graphical Statistics, 35(1), 229–240.
 4. Jalilian, A., Cuevas-Pacheco, F., and **Xu, G.**, and Waagepetersen, R.  (2025) "[Composite likelihood inference for space-time point processes](http://arxiv.org/abs/2402.12548)", Biometrics, 81(1), ujaf009.
